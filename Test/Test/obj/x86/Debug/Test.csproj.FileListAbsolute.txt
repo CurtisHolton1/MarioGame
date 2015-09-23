@@ -1,0 +1,11 @@
+C:\Users\Curtis\Source\Workspaces\PrivateWorkspace\Test\Test\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Curtis\Source\Workspaces\PrivateWorkspace\Test\Test\Test\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Curtis\Source\Workspaces\PrivateWorkspace\Test\Test\Test\bin\x86\Debug\Test.exe
+C:\Users\Curtis\Source\Workspaces\PrivateWorkspace\Test\Test\Test\bin\x86\Debug\Test.pdb
+C:\Users\Curtis\Source\Workspaces\PrivateWorkspace\Test\Test\Test\obj\x86\Debug\Test.exe
+C:\Users\Curtis\Source\Workspaces\PrivateWorkspace\Test\Test\Test\obj\x86\Debug\Test.pdb
+C:\Users\Curtis\Source\Workspaces\PrivateWorkspace\Test\Test\Test\bin\x86\Debug\Content\smb_mario_sheet.xnb
+C:\Users\Curtis\Source\Workspaces\PrivateWorkspace\Test\Test\Test\bin\x86\Debug\Content\mario.xnb
+C:\Users\Curtis\Source\Workspaces\PrivateWorkspace\Test\Test\Test\bin\x86\Debug\Content\mario_2.xnb
+C:\Users\Curtis\Source\Workspaces\PrivateWorkspace\Test\Test\Test\bin\x86\Debug\Content\tiles-2.xnb
+C:\Users\Curtis\Source\Workspaces\PrivateWorkspace\Test\Test\Test\bin\x86\Debug\Content\items-objects.xnb

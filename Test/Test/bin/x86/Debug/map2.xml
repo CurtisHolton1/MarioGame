@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <map tileWidth ="32" tileHeight="32" mapXBoundary ="800" mapYBoundary ="600">
+    <gameObjects>
+
+      <gravity accelY = "2"></gravity>
+      <camera posX="0" posY="0" width ="4000" height="600" ></camera>
+      <mario posX ="0" posY ="543"></mario>
+      <floor start ="0" num ="0"></floor>
+      <block type="3" posX="0" posY="17" containsItem ="2" containsCoin="0" ></block>
+      <block type="1" posX="5" posY="13" containsItem ="2" containsCoin="0" ></block>
+      <block type="2" posX="4" posY="13" containsItem ="0" containsCoin="0" ></block>
+      <block type="2" posX="6" posY="13" containsItem ="0" containsCoin="0" ></block>
+      <triangle type = "4" posX="20" posY ="16" width ="3" height ="3" reverse ="false"></triangle>
+      <triangle type = "4" posX="24" posY ="16" width ="3" height ="3" reverse ="true"></triangle>
+      <row type ="2" posX ="27" posY ="12" num ="10"></row>
+      <block type="2" posX="27" posY="11" containsItem ="0" containsCoin="0" ></block>
+      <block type="2" posX="37" posY="11" containsItem ="0" containsCoin="0" ></block>
+      <backgroundLayer scroll ="0.0" visibility ="1.0" num="0" ></backgroundLayer>
+      <backgroundLayer scroll ="0.1" visibility ="1.0" num="1" ></backgroundLayer>
+      <backgroundLayer scroll ="0.2" visibility ="1.0" num="2" ></backgroundLayer>
+      <backgroundLayer scroll ="0.3" visibility ="1.0" num="3" ></backgroundLayer>
+      <backgroundLayer scroll ="0.4" visibility ="1.0" num="4" ></backgroundLayer>
+      <backgroundLayer scroll ="0.5" visibility ="1.0" num="5" ></backgroundLayer>
+      <backgroundLayer scroll ="0.6" visibility ="1.0" num="6" ></backgroundLayer>
+      <backgroundLayer scroll ="0.8" visibility ="1.0" num="7" ></backgroundLayer>
+      <backgroundLayer scroll ="1.0" visibility ="1.0" num="8" ></backgroundLayer>
+      <backgroundSprite texture="Layer1" num="0" posX="0" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer2" num="1" posX="0" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer3" num="2" posX="0" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer5" num="4" posX="0" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer6" num="5" posX="0" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer7" num="6" posX="0" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer8" num="7" posX="0" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer9" num="8" posX="0" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer8" num="7" posX="28" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer9" num="8" posX="50" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer1" num="0" posX="100" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer2" num="1" posX="100" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer3" num="2" posX="100" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer5" num="3" posX="0" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer5" num="4" posX="100" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer8" num="7" posX="100" posY="0" ></backgroundSprite>
+      <backgroundSprite texture="Layer9" num="8" posX="100" posY="0" ></backgroundSprite>
+      <block type="2" posX="29" posY="8" containsItem ="0" containsCoin="0" ></block>
+      <block type="1" posX="30" posY="8" containsItem ="0" containsCoin="1" ></block>
+      <block type="2" posX="31" posY="8" containsItem ="0" containsCoin="0" ></block>
+      <block type="1" posX="32" posY="8" containsItem ="0" containsCoin="1" ></block>
+      <block type="2" posX="33" posY="8" containsItem ="0" containsCoin="0" ></block>
+      <block type="1" posX="59" posY="13" containsItem ="0" containsCoin="1" ></block>
+      <block type="1" posX="61" posY="13" containsItem ="0" containsCoin="1" ></block>
+      <block type="1" posX="60" posY="9" containsItem ="1" containsCoin="0" ></block>
+      <block type="1" posX="62" posY="9" containsItem ="0" containsCoin="1" ></block>
+      <block type="4" posX="54" posY="16" containsItem ="0" containsCoin="0" ></block>
+      <block type="4" posX="80" posY="16" containsItem ="0" containsCoin="0" ></block>
+      <block type="4" posX="80" posY="15" containsItem ="0" containsCoin="0" ></block>
+      <block type="4" posX="80" posY="14" containsItem ="0" containsCoin="0" ></block>
+      <block type="4" posX="82" posY="16" containsItem ="0" containsCoin="0" ></block>
+      <block type="4" posX="82" posY="15" containsItem ="0" containsCoin="0" ></block>
+      <block type="4" posX="85" posY="16" containsItem ="0" containsCoin="0" ></block>
+      <block type="4" posX="85" posY="15" containsItem ="0" containsCoin="0" ></block>
+      <block type="4" posX="87" posY="16" containsItem ="0" containsCoin="0" ></block>
+      <block type="4" posX="87" posY="15" containsItem ="0" containsCoin="0" ></block>
+      <block type="4" posX="87" posY="14" containsItem ="0" containsCoin="0" ></block>
+      <floor start ="74" num ="10"></floor>
+      <triangle type = "4" posX="71" posY ="16" width ="3" height ="3" reverse ="false"></triangle>
+      <triangle type = "4" posX="74" posY ="16" width ="3" height ="3" reverse ="true"></triangle>
+      <triangle type = "4" posX="100" posY ="16" width ="8" height ="6" reverse ="false"></triangle>
+      <flag posX ="110" posY="9"></flag>
+      <block type="4" posX="110" posY="16" containsItem ="0" containsCoin="0" ></block>
+      <checkpoints ch1X="0" ch1Y="0" ch2X="500" ch2Y="0" ch3X="2000" ch3Y="0" ch4X="3000" ch4Y="0"></checkpoints>
+
+    </gameObjects>
+
+  </map>
+</XnaContent>
